@@ -1,21 +1,21 @@
-name: Thomas A. Anderson
+name: Bill Hilbert
 # Info to show in header
-email: neo@zion.gov
-phone: (312) 555-0690
-location: Zion, Earth
+email: hilbertwilliam@gmail.com
+phone: (941) 421-8990
+location: Sarasota, FL
 # Header introduction / mission statement
-intro: I carry the Matrix's source code, known as the Prime Program. This gives me the ability to freely manipulate the simulated reality of the Matrix, similar to the authority a system administrator has over a given system. I manifest these abilities as various superhuman powers.
+intro: Motivated and technically inclined individual highly skilled in troubleshooting, analyzing and providing solutions for complex technical problems. Experienced in account management and traveling for on-site technical training. Computer science hobbyist and web developer.
 #for Twitter cards:
 twitter: '@neo'
 # Removing all proficiencies will remove the section from the resume
 proficiencies:
   # - list item
-  - Hacking
-  - Creative entrepeneurship
-  - Martial arts
-  - Negotiations
-  - Hovercraft piloting
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+  - Web Development
 # Links to include in header
 links:
   # text: http://link.com
-  '@neo': https://github.com/neo
+  '@billmakes': https://github.com/billmakes
